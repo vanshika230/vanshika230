@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 Coding and web designing has always fascinated me and I look forward to learning skills along with all tech enthusiasts.
-Currently practicing Front-end development using HTML, CSS, Javascript and Jquery . Looking forward to learn React. Working on my Data Structures and Algorithms skill in Java.
+
 🔭 I’m currently working on Excel Clone using HTML, CSS, Javascript and Jquery, Web Scraping Projects using Node.js, Sorting visualizer with HTML,CSS,Javascript and knowledge of sorting algorithms.
+
  🌱 I’m currently learning Javascript, Jquery on the go with projects along with practicing my Data Structure and algorithm skills with Java.
+ 
  👯 I’m looking to collaborate on Front-end projects to expand knowledge about web development.
+ 
  📫 How to reach me: 
  Linkedin :-  https://www.linkedin.com/in/vanshika-mishra2308/
  Email - vanshikamishra953@gmail.com
