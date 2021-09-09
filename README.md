@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanshika230](https://github.com/vanshika230)
 
-- 💬 Ask me about **Python,Numoy,Pandas,Seaborn,Matplotlib,Beautiful Soup, Selenium, Machine Learning Algorithms**
+- 💬 Ask me about **Python,Numpy,Pandas,Seaborn,Matplotlib,Beautiful Soup, Selenium, Machine Learning Algorithms**
 
 - 📫 How to reach me **mvanshika23@gmail.com**
 
