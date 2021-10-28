@@ -39,3 +39,11 @@
 
 ## Talk is cheap, show me the code ✅
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vanshika230&theme=react-dark&hide_border=true&area=true)
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+#
+
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
