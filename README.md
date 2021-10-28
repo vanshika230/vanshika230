@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/vanshika230/Machine-Learning)
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 Currently learning **Machine Learning Algorithms**
 
 - 👯 I’m looking to collaborate on [Machine Learning](https://github.com/vanshika230/Machine-Learning)
 
