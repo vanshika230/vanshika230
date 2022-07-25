@@ -33,11 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshika230&show_icons=true&locale=en" alt="vanshika230" /></p>
 
 
-## Consistency is key ✨
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika230&" alt="vanshika230" /></p>
 
-## Talk is cheap, show me the code ✅
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=vanshika230&theme=react-dark&hide_border=true&area=true)
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
