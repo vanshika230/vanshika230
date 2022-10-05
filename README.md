@@ -8,7 +8,7 @@
 <a href="https://twitter.com/mvanshika23" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/vanshika-mishra2308/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.kaggle.com/mvanshika" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
 
-- 🔭 I’m currently working on [Natural Language Processing](https://github.com/vanshika230/Natural-Language-Processing)
+- 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/vanshika230/Data-Structures-and-Algorithms)
 
 - 🌱 Currently learning **Deep Learning Algorithms**
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanshika230](https://github.com/vanshika230)
 
-- 💬 Ask me about **Machine Learning , Deep Learning, Natural Language Processing**
+- 💬 Ask me about **Machine Learning , Deep Learning, Business Analytics**
 
 - 📫 How to reach me **mvanshika23@gmail.com**
 
