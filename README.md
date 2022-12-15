@@ -42,6 +42,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshika230&show_icons=true&locale=en" alt="vanshika230" /></p>
 
+## Consistency is key ✨
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika230&" alt="vanshika230" /></p>
 
 
 
