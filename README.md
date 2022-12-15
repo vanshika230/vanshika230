@@ -11,7 +11,7 @@
 
 - 🌱 Currently working on **Natural Language Processing**
 
-- 👯 I’m looking to collaborate on [Machine Learning](https://github.com/vanshika230/Deep-Learning)
+- 👯 I’m looking to collaborate on [Machine Learning](https://github.com/vanshika230/Machine-Learning)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanshika230](https://github.com/vanshika230)
 
