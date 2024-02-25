@@ -43,10 +43,9 @@
   
 </p>
 
-## Blog posts
+## Latest Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+https://medium.com/@mvanshika23/a-comprehensive-guide-to-mastering-machine-learning-from-basics-to-advanced-algorithms-56181bd6e22c
 
 ## GitHub Stats 💯
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika230&show_icons=true&locale=en&layout=compact" alt="vanshika230" /></p>
