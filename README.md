@@ -6,6 +6,7 @@
 
 ## About Me :wave:
 <a href="https://twitter.com/mvanshika23" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/vanshika-mishra2308/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://medium.com/@mvanshika23" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-1024.png" height="120px" width="120px" alt="Medium" align="right"></a>
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/vanshika230/Machine-Learning)
 
