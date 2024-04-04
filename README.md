@@ -45,15 +45,18 @@
 
 ## Latest Blog posts
 
+### 1. A comprehensive guide to study machine learning 
 https://medium.com/@mvanshika23/a-comprehensive-guide-to-mastering-machine-learning-from-basics-to-advanced-algorithms-56181bd6e22c
+### 2. Introduction to Git and VCS
+https://medium.com/@mvanshika23/day-1-introduction-to-git-and-github-5890d41280ad
+### 3. Understanding Git
+https://medium.com/@mvanshika23/understanding-git-20fa414ad1af
 
 ## GitHub Stats 💯
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshika230&show_icons=true&locale=en&layout=compact" alt="vanshika230" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshika230&show_icons=true&locale=en" alt="vanshika230" /></p>
 
-## Consistency is key ✨
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika230&" alt="vanshika230" /></p>
 
 
 
